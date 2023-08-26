@@ -1,5 +1,5 @@
-#define BLYNK_TEMPLATE_ID "TMPL2Myi4FZ_J"
-#define BLYNK_TEMPLATE_NAME "AGRO HOUSE"
+#define BLYNK_TEMPLATE_ID "TMPL2Myi4FZ_J" // choose yout Template ID from your own App 
+#define BLYNK_TEMPLATE_NAME "AGRO HOUSE" // select the name of Your Template 
 #define BLYNK_AUTH_TOKEN "lY25We_hf2TFpQ7d2qVUgIQF0-43b5C8"
 
 #include <Wire.h>
