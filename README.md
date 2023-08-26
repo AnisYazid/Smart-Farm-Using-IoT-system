@@ -12,3 +12,5 @@ I made a real smart Green house using IoT system.The IoT smart Green House  typi
 - DC 5V relay 220v AC
 - 220v Water Pump
 ## Power
+-Tattu R-Line Version 4.0 1550mAh 14.8V
+# Usage 
