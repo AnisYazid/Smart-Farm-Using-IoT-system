@@ -14,3 +14,6 @@ I made a real smart Green house using IoT system.The IoT smart Green House  typi
 ## Power
 -Tattu R-Line Version 4.0 1550mAh 14.8V
 # Usage 
+I made 2 files, One for Testing all the components ( Sensors,Actuators ) in the Serial Monitor and Using the bynk Mobile App
+- To Test the Components open the "Test Compponent" File and Upload the Code in Your Microcontroller.
+- The Project's Code is in The "Final" File check your Pins befor uploading the Code. 
