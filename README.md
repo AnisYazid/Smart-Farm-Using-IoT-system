@@ -5,7 +5,7 @@ I made a real smart Green house using IoT system.The IoT smart Green House  typi
 ## Controller 
 - ESP 32 Wroom 32D development board (30 pin)
 ## Sensors
-- Temperature and Humidity Sensor DHT 11
+- 4 x Temperature and Humidity Sensor DHT 11
 - Soil Moisture Sensor Module With the Comparator LM393 IC
 ## Actuators
 - AC 220v Fan
