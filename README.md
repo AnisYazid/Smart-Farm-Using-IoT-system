@@ -18,4 +18,4 @@ I made 2 files, One for Testing all the components ( Sensors,Actuators ) in the 
 - To Test the Components open the "Test Compponent" File and Upload the Code in Your Microcontroller.
 - The Project's Code is in The "Final" File check your Pins befor uploading the Code. 
 
-Any Queation Contact me : anisyazid02@gmail.com
+Any Question Contact me : anisyazid02@gmail.com
